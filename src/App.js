@@ -59,41 +59,6 @@ export default function App() {
           );
         })}
       </ul>
-
-      <footer class="footer">
-        <div class="footer-header">social media presence</div>
-        <ul class="social-links list-non-bullet">
-          <li class="list-item-inline">
-            <a class="social-media link" href="https://github.com/neogcamp/">
-              <i class="fa-brands fa-github"></i>
-            </a>
-          </li>
-          <li class="social-media list-item-inline">
-            <a class="link" href="https://twitter.com/neogcamp">
-              <i class="fa-brands fa-twitter"></i>
-            </a>
-          </li>
-          <li class="social-media list-item-inline">
-            <a
-              class="link"
-              href="https://www.linkedin.com/in/praveen-kumar-88644bbb/"
-            >
-              <i class="fa-brands fa-linkedin"></i>
-            </a>
-          </li>
-          <li class="social-media list-item-inline">
-            <a class="link" href="https://www.linkedin.com/company/neog-camp/">
-              <i class="fa-brands fa-facebook"></i>
-            </a>
-          </li>
-
-          <li class="social-media list-item-inline">
-            <a class="link" href="https://www.instagram.com/kumarpraveen1/">
-              <i class="fa-brands fa-instagram"></i>
-            </a>
-          </li>
-        </ul>
-      </footer>
     </div>
   );
 }
